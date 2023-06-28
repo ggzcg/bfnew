@@ -1,0 +1,1 @@
+import{j as e,F as s,c as a}from"./index.9b07e2ad.js";const i=()=>{const i={img:a("/images/videos/banner.png")};return e(s,{children:e("div",{className:"w-full relative text-white select-none",children:e("img",{className:"w-full object-cover min-h-40",src:i.img,alt:""})})})};export{i as B};
